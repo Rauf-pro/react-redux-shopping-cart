@@ -2,7 +2,7 @@ import React from "react";
 import { BsBasket3Fill } from "react-icons/bs";
 
 
-function Home() {
+function Navbar() {
     return (
         <header>
         <div className="overlay"></div>
@@ -24,4 +24,4 @@ function Home() {
     )
 }
 
-export default Home;
+export default Navbar;
